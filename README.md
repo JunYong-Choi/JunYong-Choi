@@ -17,7 +17,7 @@
 |MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발<예선>|Dacon /<br>LG AI Research|ML(Classification)|12위<br>(상위 1%)　　|팀원|2024.02 ~ 2024.02|오프라인 해커톤 진출|
 |대구 교통사고 피해 예측 AI 경진대회|Dacon /<br>한국자동차연구원|ML(Regression)|2위|팀원|2023.11 ~ 2023.12| |
 |제주 특산물 가격 예측 AI 경진대회|Dacon /<br>제주테크노파크|Time Series| |팀원|2023.10 ~ 2023.11| |
-|HD현대 AI Challenge<본선>|Dacon /<br>HD현대 AI Center　　　　　|Time Series|2위|팀장|2023.11.06 ~ 11.10| |
+|HD현대 AI Challenge<본선>|Dacon /<br>HD현대 AI Center　　　　|Time Series|2위|팀장|2023.11.06 ~ 11.10| |
 |HD현대 AI Challenge<예선>|Dacon /<br>HD현대 AI Center|ML(Regression)|1위|팀장|2023.09 ~ 2023.10|오프라인 해커톤 진출|
 |온라인 채널 제품 판매량<br>예측 AI 오프라인 해커톤|Dacon /<br>LG AI Research|Time Series|24위|팀장|2023.09.16 ~ 09.17| |
 |온라인 채널 제품 판매량<br>예측 AI  온라인 해커톤|Dacon /<br>LG AI Research|Time Series|12위<br>(상위 1%)　　|팀장|2023.08 ~ 2023.08|오프라인 해커톤 진출|
