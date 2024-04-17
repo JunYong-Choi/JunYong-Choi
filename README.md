@@ -21,7 +21,7 @@
 |HD현대 AI Challenge<예선>|Dacon /<br>HD현대 AI Center|ML(Regression)|1위|팀장|2023.09 ~ 2023.10|오프라인 해커톤 진출|
 |온라인 채널 제품 판매량<br>예측 AI 오프라인 해커톤|Dacon /<br>LG AI Research|Time Series|24위|팀장|2023.09.16 ~ 09.17| |
 |온라인 채널 제품 판매량<br>예측 AI  온라인 해커톤|Dacon /<br>LG AI Research|Time Series|12위<br>(상위 1%)　　|팀장|2023.08 ~ 2023.08|오프라인 해커톤 진출|
-|2023 빅콘테스트 정형<br>- 어드밴스드 리그|빅콘테스트 /<br>NIA|Time Series| |팀원|2023.08 ~ 2023.09| |
+|2023 빅콘테스트 정형<br>- 어드밴스드 리그|빅콘테스트 /<br>NIA|ML(Regreesion)| |팀원|2023.08 ~ 2023.09| |
 |2023 전력사용량 예측 AI 경진대회|Dacon /<br>한국에너지공단|Time Series|107위<br>(상위 8%)　　|팀장|2023.07 ~ 2023.08| |
 |법원 판결 예측 AI 경진대회|Dacon|NLP|2위|팀장|2023.06 ~ 2023.07| |
 |2023 교원그룹 AI OCR 챌린지|Dacon /<br>교원그룹|OCR(광학 문자 인식)| |팀원　|2022.12 ~ 2023.01| |
