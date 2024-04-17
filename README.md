@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=#8a2be2&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
+
+
 
 <!--
 **JunYong-Choi/JunYong-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
