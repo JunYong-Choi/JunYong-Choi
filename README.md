@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=C288FE&text=Welcome%20to-nl-Machine%20Choi's%20Github&section=header&fontColor=000000&fontSize=35&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=C288FE&text=Welcome%20to-nl-Machine%20Choi's%20Github&section=header&fontColor=000000&fontSize=35&animation=scaleIn&theme=radical)
 ---
 Hi there 🖐️
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunYong-Choi&count_bg=%23BA7300&title_bg=%23F4BB29&icon=python.svg&icon_color=%23FFFFFF&title=Thanks%21&edge_flat=false)](https://hits.seeyoufarm.com)
