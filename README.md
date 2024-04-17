@@ -32,7 +32,8 @@ Hi there 🖐️
 |2023 전력사용량 예측 AI 경진대회|Dacon /<br>한국에너지공단|Time Series|107위<br>(상위 8%)　　|팀장|2023.07 ~ 2023.08| |
 |법원 판결 예측 AI 경진대회|Dacon|NLP|2위|팀장|2023.06 ~ 2023.07| |
 |2023 교원그룹 AI OCR 챌린지|Dacon /<br>교원그룹|OCR(광학 문자 인식)|-|팀원　|2022.12 ~ 2023.01| |
-
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwnsdyd99)](https://solved.ac/chlwnsdyd99/)
 
 <!--
 **JunYong-Choi/JunYong-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
