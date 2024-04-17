@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Welcome%20to-nl-Machine%20Choi's%20Github&fontColor=000000&fontSize=40&animation=scaleIn)
 
-### 📝 Education
-
+# 📝 Education
 |기간|소속|전공 & 교육|학위|비고|
 |----|---|-----------|---|----|
 |2024.01~2024.02|LG AI Research|LG Aimers/Data Intelligence 4기|-|수료|
