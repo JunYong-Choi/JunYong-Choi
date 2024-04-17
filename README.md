@@ -4,8 +4,8 @@
 ---
 |기간|소속|전공 & 교육|학위|비고|
 |----|---|-----------|---|----|
-|2024.01~2024.02|LG AI연구원|LG Aimers/Data Intelligence 4기|-|수료|
-|2023.07~2023.08|LG AI연구원|LG Aimers/Data Intelligence 3기|-|수료|
+|2024.01~2024.02|LG AI Research|LG Aimers/Data Intelligence 4기|-|수료|
+|2023.07~2023.08|LG AI Research|LG Aimers/Data Intelligence 3기|-|수료|
 |2019.03~2019.08|D&A|빅데이터 학회|-|수료|
 |2019.03~|국민대학교|데이터사이언스|융합전공|재학|
 |2018.03~|국민대학교|AI빅데이터융합경영학과|제1전공|재학|
