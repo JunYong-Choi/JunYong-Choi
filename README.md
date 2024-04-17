@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Welcome%20to-nl-Machine%20Choi's%20Github&fontColor=000000&fontSize=40&animation=scaleIn)
 ---
 Hi there 🖐️
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunYong-Choi&count_bg=%23BA7300&title_bg=%23F4BB29&icon=python.svg&icon_color=%23FFFFFF&title=Thanks%21&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 ### 📧 Contact
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunYong-Choi&count_bg=%23BA7300&title_bg=%23F4BB29&icon=python.svg&icon_color=%23FFFFFF&title=Thanks%21&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve19990511@gmail.com)](mailto:steve19990511@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/yongyongdie_._._/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=#6C2300&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/yongyong_die_._._/) 
 ---
 ### 📝 Education
 |기간|소속|전공 & 교육|학위|비고|
