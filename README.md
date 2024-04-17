@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontColor=000000&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=#8a2be2&height=250&section=header&text=Eunjeong's%20GitHub&fontColor=000000&fontSize=70&animation=scaleIn)
 
 
 
