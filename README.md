@@ -7,7 +7,7 @@ Hi there 🖐️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-6C2300?style=flat-square&logo=Gmail&logoColor=white&link=mailto:steve19990511@gmail.com)](mailto:steve19990511@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yongyong_die_._._/)](https://www.instagram.com/yongyong_die_._._/) 
 ---
-### 📝 Education
+### 🏢 Career
 |기간|소속|부서명|역할|
 |----|----|-------|---|
 |2024.06.~|HD한국조선해양|-|-|
