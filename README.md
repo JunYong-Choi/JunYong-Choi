@@ -8,6 +8,11 @@ Hi there 🖐️
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yongyong_die_._._/)](https://www.instagram.com/yongyong_die_._._/) 
 ---
 ### 📝 Education
+|기간|소속|부서명|역할|
+|----|----|-------|---|
+|2024.06.~|HD한국조선해양|-|-|
+---
+### 📝 Education
 |기간|소속|전공 & 교육|학위|비고|
 |----|---|-----------|---|----|
 |2024.01~2024.02|LG AI Research|LG Aimers/Data Intelligence 4기|-|수료|
