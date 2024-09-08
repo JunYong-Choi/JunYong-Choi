@@ -15,6 +15,7 @@ Hi there 🖐️
 ### 📝 Education
 |기간|소속|전공 & 교육|학위|비고|
 |----|---|-----------|---|----|
+|2024.07~2024.08|LG AI Research|LG Aimers/Data Intelligence 5기|-|수료|
 |2024.01~2024.02|LG AI Research|LG Aimers/Data Intelligence 4기|-|수료|
 |2023.07~2023.08|LG AI Research|LG Aimers/Data Intelligence 3기|-|수료|
 |2019.03~2019.08|D&A|빅데이터 학회|-|수료|
